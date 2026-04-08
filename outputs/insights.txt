@@ -1,0 +1,12 @@
+
+===== KEY BUSINESS INSIGHTS =====
+
+1. Top Country: United Kingdom
+2. Most Sold Product: PAPER CRAFT , LITTLE BIRDIE
+3. Highest Revenue Product: PAPER CRAFT , LITTLE BIRDIE
+4. Top Customer: 14646.0
+5. Peak Sales Date: 2011-12-09
+6. Total Revenue: 8911407.9
+7. Avg Transaction Value: 22.4
+8. Unique Customers: 4338
+
